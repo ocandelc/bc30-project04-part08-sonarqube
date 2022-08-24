@@ -1,0 +1,7 @@
+Elaborado por:
+Oscar Candela
+
+https://sonarcloud.io/project/overview?id=bc30-project04-part04-business-microservice01
+https://sonarcloud.io/project/overview?id=bc30-project04-part04-business-microservice02
+https://sonarcloud.io/project/overview?id=bc30-project04-part04-business-microservice03
+https://sonarcloud.io/project/overview?id=bc30-project04-part04-business-microservice04
